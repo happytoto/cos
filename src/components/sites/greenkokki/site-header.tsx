@@ -22,10 +22,12 @@ export function SiteHeader({ active }: { active?: NavLabel }) {
       <nav className="gk-nav">
         <a href={SOURCE} className="gk-brand">
           <span className="gk-logo">
-            {/* eslint-disable-next-line @next/next/no-img-element -- 210px source JPEG, shown as-is */}
-            <img src="/sites/greenkokki/logo.jpg" alt="그린코끼리 로고" />
+            {/* eslint-disable-next-line @next/next/no-img-element -- static SVG mark */}
+            <img src="/sites/rocketsecu/logo.svg" alt="로켓시큐 로고" />
           </span>
-          <span className="gk-brand-name">그린코끼리 AI</span>
+          <span className="gk-brand-name">
+            RocketSecu <small>로켓시큐</small>
+          </span>
         </a>
         <button
           type="button"

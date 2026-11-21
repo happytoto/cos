@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
   authors: [{ name: "그린코끼리 AI" }],
-  icons: { icon: "/sites/greenkokki/logo.jpg" },
+  icons: { icon: "/sites/rocketsecu/logo.svg" },
   openGraph: { title: TITLE, description: DESCRIPTION, type: "website" },
   twitter: { card: "summary_large_image", title: TITLE, description: DESCRIPTION },
 };

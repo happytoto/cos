@@ -179,14 +179,18 @@ body {
 .gk-logo img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  transform: scale(1.08);
   display: block;
 }
 
 .gk-brand-name {
   font-weight: 700;
   font-size: 17px;
+}
+
+.gk-brand-name small {
+  font-weight: 600;
+  font-size: 0.85em;
+  color: #5b655e;
 }
 
 .gk-nav-toggle {
