@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const SOURCE = "https://greenkokki.com";
+const SOURCE = "https://cos.aplusnet.net";
 
 const NAV_ITEMS = [
   { href: `${SOURCE}/#why`, label: "멤버십" },

@@ -19,7 +19,7 @@ export default function ClaudeMotionGraphicKitPage() {
     <div>
       <SiteHeader active="실전키트" />
       <div className="gk-back-wrap">
-        <a href="https://greenkokki.com/kits" className="gk-back">
+        <a href="https://cos.aplusnet.net/kits" className="gk-back">
           <svg
             width="18"
             height="18"

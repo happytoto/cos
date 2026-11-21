@@ -18,7 +18,7 @@ export function SiteFooter() {
           <a href={`${YOUTUBE}/join`} target="_blank" rel="noopener noreferrer">
             멤버십
           </a>
-          <a href="https://greenkokki.com/#join">뉴스레터</a>
+          <a href="https://cos.aplusnet.net/#join">뉴스레터</a>
         </div>
       </div>
     </footer>
